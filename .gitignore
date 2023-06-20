@@ -1,0 +1,27 @@
+WebApplication4/bin/Debug/netcoreapp3.1/WebApplication4.dll
+Backend/WebApplication4/bin/*
+Backend/WebApplication4/obj/*
+*.suo
+.vs/Taskbook_project/v16/.suo
+*.dtbcache.v2
+# dependencies
+newfront/my-app/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
